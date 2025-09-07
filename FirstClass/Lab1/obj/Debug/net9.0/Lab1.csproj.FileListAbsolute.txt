@@ -1,0 +1,15 @@
+C:\Users\Owner\CSharp_Lab\FirstClass\Lab1\bin\Debug\net9.0\Lab1.exe
+C:\Users\Owner\CSharp_Lab\FirstClass\Lab1\bin\Debug\net9.0\Lab1.deps.json
+C:\Users\Owner\CSharp_Lab\FirstClass\Lab1\bin\Debug\net9.0\Lab1.runtimeconfig.json
+C:\Users\Owner\CSharp_Lab\FirstClass\Lab1\bin\Debug\net9.0\Lab1.dll
+C:\Users\Owner\CSharp_Lab\FirstClass\Lab1\bin\Debug\net9.0\Lab1.pdb
+C:\Users\Owner\CSharp_Lab\FirstClass\Lab1\obj\Debug\net9.0\Lab1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\CSharp_Lab\FirstClass\Lab1\obj\Debug\net9.0\Lab1.AssemblyInfoInputs.cache
+C:\Users\Owner\CSharp_Lab\FirstClass\Lab1\obj\Debug\net9.0\Lab1.AssemblyInfo.cs
+C:\Users\Owner\CSharp_Lab\FirstClass\Lab1\obj\Debug\net9.0\Lab1.csproj.CoreCompileInputs.cache
+C:\Users\Owner\CSharp_Lab\FirstClass\Lab1\obj\Debug\net9.0\Lab1.sourcelink.json
+C:\Users\Owner\CSharp_Lab\FirstClass\Lab1\obj\Debug\net9.0\Lab1.dll
+C:\Users\Owner\CSharp_Lab\FirstClass\Lab1\obj\Debug\net9.0\refint\Lab1.dll
+C:\Users\Owner\CSharp_Lab\FirstClass\Lab1\obj\Debug\net9.0\Lab1.pdb
+C:\Users\Owner\CSharp_Lab\FirstClass\Lab1\obj\Debug\net9.0\Lab1.genruntimeconfig.cache
+C:\Users\Owner\CSharp_Lab\FirstClass\Lab1\obj\Debug\net9.0\ref\Lab1.dll

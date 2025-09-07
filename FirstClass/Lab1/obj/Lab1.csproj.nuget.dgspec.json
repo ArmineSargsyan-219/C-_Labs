@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Owner\\C#_Lab\\FirstClass\\Lab1\\Lab1.csproj": {}
+    "C:\\Users\\Owner\\CSharp_Lab\\FirstClass\\Lab1\\Lab1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Owner\\C#_Lab\\FirstClass\\Lab1\\Lab1.csproj": {
+    "C:\\Users\\Owner\\CSharp_Lab\\FirstClass\\Lab1\\Lab1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Owner\\C#_Lab\\FirstClass\\Lab1\\Lab1.csproj",
+        "projectUniqueName": "C:\\Users\\Owner\\CSharp_Lab\\FirstClass\\Lab1\\Lab1.csproj",
         "projectName": "Lab1",
-        "projectPath": "C:\\Users\\Owner\\C#_Lab\\FirstClass\\Lab1\\Lab1.csproj",
+        "projectPath": "C:\\Users\\Owner\\CSharp_Lab\\FirstClass\\Lab1\\Lab1.csproj",
         "packagesPath": "C:\\Users\\Owner\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Owner\\C#_Lab\\FirstClass\\Lab1\\obj\\",
+        "outputPath": "C:\\Users\\Owner\\CSharp_Lab\\FirstClass\\Lab1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
